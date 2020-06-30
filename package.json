@@ -1,0 +1,19 @@
+{
+  "name": "intern_2020_tdd",
+  "version": "1.0.0",
+  "description": "\"Inter 2002\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avilaj2/intern_2020_tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avilaj2/intern_2020_tdd/issues"
+  },
+  "homepage": "https://github.com/Avilaj2/intern_2020_tdd#readme"
+}
